@@ -140,7 +140,7 @@ export default function App() {
             className="px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-semibold text-white bg-violet-800 hover:bg-violet-700 transition-colors"
           >
             📋 History
-          </button>avicon.svg
+          </button>
           <button
             onClick={clearAll}
             className="px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-semibold text-white bg-rose-700 hover:bg-rose-600 transition-colors"
